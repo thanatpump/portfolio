@@ -13,7 +13,7 @@ export default defineConfig({
     ],
     build: {
         outDir: 'dist',
-        assetsDir: '',
+        assetsDir: 'assets',
         manifest: true,
         rollupOptions: {
             input: ['resources/css/app.css', 'resources/js/app.jsx'],
