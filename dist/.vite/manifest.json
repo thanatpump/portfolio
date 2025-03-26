@@ -1,0 +1,13 @@
+{
+  "resources/css/app.css": {
+    "file": "app-C2Nv_yRB.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.jsx": {
+    "file": "app-DbSQBTLQ.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true
+  }
+}
